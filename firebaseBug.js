@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the project is not properly configured or if there are issues with authentication. This can be difficult to debug because the error messages are sometimes unclear.
